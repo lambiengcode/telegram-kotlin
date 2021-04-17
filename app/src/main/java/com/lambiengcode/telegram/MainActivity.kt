@@ -6,7 +6,7 @@ import android.view.View
 import android.view.WindowManager
 import androidx.appcompat.widget.Toolbar
 import com.lambiengcode.telegram.databinding.ActivityMainBinding
-import com.lambiengcode.telegram.pages.ChatsFragment
+import com.lambiengcode.telegram.pages.fragments.ChatsFragment
 import com.lambiengcode.telegram.pages.objects.AppDrawer
 
 class MainActivity : AppCompatActivity() {

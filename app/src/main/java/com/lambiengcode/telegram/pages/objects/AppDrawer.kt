@@ -4,7 +4,7 @@ import android.view.View
 import androidx.appcompat.widget.Toolbar
 import androidx.appcompat.app.AppCompatActivity
 import com.lambiengcode.telegram.R
-import com.lambiengcode.telegram.pages.SettingsFragment
+import com.lambiengcode.telegram.pages.fragments.SettingsFragment
 import com.mikepenz.materialdrawer.AccountHeader
 import com.mikepenz.materialdrawer.AccountHeaderBuilder
 import com.mikepenz.materialdrawer.Drawer
